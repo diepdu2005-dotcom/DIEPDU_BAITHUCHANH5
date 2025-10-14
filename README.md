@@ -1,17 +1,15 @@
 # Tên dự án / Bài tập
-
-Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập trình điều khiển GPIO để đọc nút nhấn và nháy LED).
-
+1. Thực hành truyền dữ liệu qua SPI
+2. Thực hành tạo sóng sine tần số xác định 
 ---
 
 ## Thông tin nhóm
 
 |STT| | Họ và Tên    |
 |---|
-| 1 | | Nguyễn Văn A |
-| 2 | | Trần Thị B   |
-| 3 | | Lê Văn C     |
-
+1. Diệp Văn Du
+2. Đặng Thị Hồng Chinh
+3. Vi Văn Huyện
 ---
 
 ## Phần cứng sử dụng
@@ -24,11 +22,13 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 
 ## Hướng dẫn Build và Nạp code
 
-1.  Mở project bằng STM32CubeIDE.
-2.  Nhấn `Build` (Ctrl + B).
-3.  Kết nối mạch nạp ST-Link và nhấn `Run` (F11) để nạp chương trình.
-
+1.  Mở project bằng KeilC.
+2.  Nhấn `Build` (F7).
+3.  Kết nối mạch nạp ST-Link và nhấn `Run` (F8) để nạp chương trình.
+4.  Chạy Debugger 
 ---
 ## Video Demo
+1. https://youtu.be/3FTZhy7slmY
+2. https://youtu.be/nQ1o8qipFhk
 
 (Dán link YouTube video demo sản phẩm tại đây)
