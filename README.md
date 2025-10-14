@@ -28,7 +28,9 @@
 4.  Chạy Debugger 
 ---
 ## Video Demo
-1. https://youtu.be/3FTZhy7slmY
-2. https://youtu.be/nQ1o8qipFhk
+1. https://youtu.be/nQ1o8qipFhk
+2. https://youtu.be/3FTZhy7slmY
+
 
 (Dán link YouTube video demo sản phẩm tại đây)
+
